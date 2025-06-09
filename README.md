@@ -6,15 +6,38 @@
 
 You are tasked with building a responsive frontend application that interfaces with our Camera Management API. The application will allow users to manage cameras and view demographic analytics data collected by these cameras.
 
-## Submission
+### ✅ Submission Instructions
 
-Please fork this repository and submit your solution as a pull request. Include in your README:
-- Setup instructions
-- Overview of your implementation
-- Any assumptions or design decisions
-- Screenshots of the UI
+1. **Fork** this repository to your GitHub account.
 
-If you have any questions or need assistance, feel free to open an issue in the main repository. We're here to help!
+2. Complete the task in a branch of your **own fork**.
+
+3. Once you're done, follow this submission process:
+
+   * Open an **issue** in this main repository.
+   * Request for a new branch to be created with the name format:
+
+     ```
+     {your-name}-submission
+     ```
+   * Example: `alex-submission`
+   * Our team will create that branch and set up **CI/CD previews**.
+   * You will then open a **pull request** from your forked repo to the new branch created under this repository.
+
+4. Your pull request should include:
+
+   * Setup instructions to run the app
+   * Overview of your implementation
+   * Any assumptions or design decisions you made
+   * Screenshots or a video preview of the UI in action
+
+---
+
+### 💬 Questions?
+
+If you have any questions, need clarification, or encounter blockers, feel free to **open an issue** in this repository. We’ll be happy to assist!
+
+---
 
 ## Requirements
 
