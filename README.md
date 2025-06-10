@@ -18,7 +18,7 @@ You are tasked with building a responsive frontend application that interfaces w
    * Request for a new branch to be created with the name format:
 
      ```
-     {your-name}-submission
+     Request: {your-name}-submission
      ```
    * Example: `alex-submission`
    * Our team will create that branch and set up **CI/CD previews**.
@@ -30,6 +30,9 @@ You are tasked with building a responsive frontend application that interfaces w
    * Overview of your implementation
    * Any assumptions or design decisions you made
    * Screenshots or a video preview of the UI in action
+
+🚨 Please note:
+**Candidates who do not complete the task within the given timeframe will not be considered for the position.**
 
 ---
 
