@@ -164,6 +164,7 @@ yarn dev
 1. Demographics Analytics for the single camera with filters
 
 ![alt text](image-4.png)
+
 ![alt text](image-5.png)
 
 ---
